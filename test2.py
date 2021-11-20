@@ -1,5 +1,6 @@
 ## FUNCTIONS
 
+# sum function
 def sum(num1, num2):
 
     def new_func(n1, n2):
